@@ -1,0 +1,22 @@
+ body{
+    font-family: 'EB Garamond', serif;
+ }
+
+section{
+    margin: 120px 0;
+}
+.header-main-container {
+    background-image:
+        url('../images/banner.png');
+    background-size: cover;
+    height: 550px;
+}
+#card2{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+.practice-card{
+    height: 500px;
+}
+footer{
+    margin: 0;
+}
